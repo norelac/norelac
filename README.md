@@ -8,7 +8,7 @@ I am a passionate developer who enjoys building scalable web applications with c
 
 ### 🌱 Quick Facts
 
-- 🔭 I’m currently working on **building scalable web applications and exploring ML models.** *(Silakan ubah jika ada proyek spesifik!)*
+- 🔭 I’m currently working on **building scalable web applications and exploring ML models.**
 - 🌱 I’m currently learning **Advanced Machine Learning & AI integrations.**
 - 👯 I’m looking to collaborate on **Open Source Web or ML Projects.**
 - 💬 Ask me about **React, Laravel, Python, and Tech in general!**

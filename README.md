@@ -24,7 +24,7 @@ I am a passionate developer who enjoys building scalable web applications with c
 
 **Machine Learning** <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,jupyter" alt="Machine Learning Stack" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,jupyter,streamlit" alt="Machine Learning Stack" />
 </a>
 
 <br>

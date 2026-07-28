@@ -1,8 +1,8 @@
 ### Hi there, I'm Muhammad Iqbal Junialdi 👋
 
-**Full-Stack Developer** based in Semarang, Indonesia.
+**Front-End Developer & Machine Learning Enthusiast** based in Semarang, Indonesia.
 
-I am a passionate developer who enjoys building scalable web applications with clean architecture and modern technologies. Currently, I am working as an Intern Laboratory Assistant at the UDINUS Computer Laboratory, where I help manage technical environments, assist peers, and continuously hone my software engineering skills. I love bridging the gap between robust backend systems and intuitive frontend interfaces.
+I am a passionate developer who enjoys building scalable web applications with clean architecture and modern technologies. Currently, I am working as an Intern Laboratory Assistant at the UDINUS Computer Laboratory, where I help manage technical environments, assist peers, and continuously hone my software engineering skills. I love bridging the gap between robust backend systems and intuitive frontend interfaces, while also exploring the fascinating world of Machine Learning to build intelligent solutions.
 
 ---
 
@@ -18,6 +18,13 @@ I am a passionate developer who enjoys building scalable web applications with c
 **Backend** <br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,php,laravel" alt="Backend Stack" />
+</a>
+
+<br>
+
+**Machine Learning** <br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,jupyter" alt="Machine Learning Stack" />
 </a>
 
 <br>

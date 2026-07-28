@@ -71,13 +71,13 @@ I am a passionate developer who enjoys building scalable web applications with c
 
 ### 📊 GitHub Analytics
 
-<!-- Menggunakan GitHub Streak Stats (Server lebih stabil) -->
-<p align="left">
+<!-- Menggunakan GitHub Streak Stats (Posisi Tengah) -->
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=norelac&theme=react-dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
-<!-- Grafik Kontribusi -->
-<p align="left">
+<!-- Grafik Kontribusi (Posisi Tengah) -->
+<p align="center">
   <a href="https://github.com/norelac">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=norelac&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" alt="Muhammad Iqbal Junialdi's Contribution Graph" />
   </a>
@@ -85,7 +85,9 @@ I am a passionate developer who enjoys building scalable web applications with c
 
 ---
 
-<!-- Visitor Counter -->
+<!-- Visitor Counter (Menggunakan server Komarev yang stabil) -->
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=norelac&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+</p>
   <img src="https://profile-counter.glitch.me/norelac/count.svg" alt="Visitor Count" />
 </p>

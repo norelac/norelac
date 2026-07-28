@@ -17,21 +17,21 @@ I am a passionate developer who enjoys building scalable web applications with c
 
 **Backend** <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel" alt="Backend Stack" />
 </a>
 
 <br>
 
 **Database** <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" alt="Database Stack" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database Stack" />
 </a>
 
 <br>
 
 **Tools & Environment** <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman" alt="Tools and Environment" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Tools and Environment" />
 </a>
 
 ---

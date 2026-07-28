@@ -89,5 +89,4 @@ I am a passionate developer who enjoys building scalable web applications with c
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=norelac&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </p>
-  <img src="https://profile-counter.glitch.me/norelac/count.svg" alt="Visitor Count" />
 </p>

@@ -1,27 +1,46 @@
 ### Hi there, I'm Muhammad Iqbal Junialdi 👋
 
-**[Peran Anda, misal: Full-Stack Software Engineer]** based in [Lokasi/Negara Anda].
+**Full-Stack Developer** based in Semarang, Indonesia.
 
-Frontend Engineer based in Indonesia.
-I love building pixel-perfect, accessible, and highly interactive web applications. I have a strong passion for UI/UX design and enjoy bridging the gap between design and engineering. Always eager to explore new frontend frameworks and create engaging digital experiences.
+I am a passionate developer who enjoys building scalable web applications with clean architecture and modern technologies. Currently, I am working as an Intern Laboratory Assistant at the UDINUS Computer Laboratory, where I help manage technical environments, assist peers, and continuously hone my software engineering skills. I love bridging the gap between robust backend systems and intuitive frontend interfaces.
 
 ---
 
 ### Tech Stack
 
-<!-- Bagian ini menggunakan skillicons.dev untuk menampilkan ikon yang seragam dan estetis -->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,svelte,nestjs,nodejs,express,go,prisma,postgres,docker,nginx,linux,git" alt="Tech Stack" />
-  </a>
-</p>
+**Frontend** <br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Stack" />
+</a>
+
+<br>
+
+**Backend** <br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" alt="Backend Stack" />
+</a>
+
+<br>
+
+**Database** <br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" alt="Database Stack" />
+</a>
+
+<br>
+
+**Tools & Environment** <br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman" alt="Tools and Environment" />
+</a>
 
 ---
 
 ### Activity
 
-<!-- Bagian ini menggunakan github-readme-activity-graph untuk membuat grafik garis kontribusi. -->
-<!-- PENTING: Ganti 'username-anda' dengan username GitHub Anda yang sebenarnya! -->
+<!-- Grafik ini sudah diatur khusus untuk username 'norelac' -->
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[username-anda]&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" alt="Contribution Graph" />
+  <a href="https://github.com/norelac">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=norelac&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" alt="Muhammad Iqbal Junialdi's Contribution Graph" />
+  </a>
 </p>

@@ -43,7 +43,7 @@ I am a passionate developer who enjoys building scalable web applications with c
 
 **Backend** <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,codeigniter4" alt="Backend Stack" />
 </a>
 
 <br>
@@ -71,10 +71,10 @@ I am a passionate developer who enjoys building scalable web applications with c
 
 ### 📊 GitHub Analytics
 
-<!-- Statistik Akun & Bahasa Pemrograman Favorit -->
+<!-- Statistik Akun & Bahasa Pemrograman Favorit (Sudah diperbaiki) -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=norelac&show_icons=true&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Iqbal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norelac&layout=compact&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=norelac&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Iqbal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norelac&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <!-- Grafik Kontribusi -->
